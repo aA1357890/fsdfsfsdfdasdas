@@ -5,12 +5,6 @@
 <meta charset="UTF-8">
 歐冠分組表
 </head>
-<html>
-<head>
-<meta http-equiv="refresh" content="3000">	
-<meta charset="UTF-8">
-歐冠分組表
-</head>
 <body style bgcolor="#DB8F00" text="#008000">
 <h1 style="font-family:DFKai-sb;font-size:300%>
 歐冠分組表</h1>
